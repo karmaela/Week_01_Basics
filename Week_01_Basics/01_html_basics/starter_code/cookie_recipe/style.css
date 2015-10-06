@@ -1,0 +1,21 @@
+body {
+	background-color: #FFE;
+	border: 13px solid black;
+	padding: 30px;
+}
+
+h1 {
+	font-size: 25px;
+}
+h2 {
+	font-size: 14px;
+	colour: #887;
+}
+p {
+	font-size: 14px;
+	line-height: 30px
+
+}
+a {
+	color: #000000;
+}
