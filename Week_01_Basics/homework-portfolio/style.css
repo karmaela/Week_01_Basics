@@ -1,7 +1,7 @@
 nav {
 	text-align: center;
 	color: #707070;
-	font-size: 14pt;
+	font-size: 14px;
 	font-style: bold;
 	font-family: sans-serif;
 	color: #23635a;
@@ -10,12 +10,12 @@ nav {
 body {
 	text-align: left;
 	vertical-align: baseline;
-	background: url(./bg.png);
+	background-image: url(./bg.png);
 	max-width: 980px;
 	margin: auto;
 	margin-top: 10px;
 	background-repeat: repeat-x;
-    background-attachment: fixed;
+	background-attachment: fixed;
     background-position: 1% 100%;
 }
 a:link {
@@ -35,42 +35,42 @@ a {
 	color: #23635a;
 }
 h1 {
-	font-size: 25pt;
+	font-size: 25px;
 	font-variant: bold;
 	font-family: sans-serif;
 	color: #23635a;
 	text-align: center;
 }
 h2 {
-	font-size: 17pt;
+	font-size: 17px;
 	font-family: sans-serif;
 	font-style: italic;
 	color: #23635a;
 }
 h4 {
-	font-size: 8pt;
+	font-size: 8px;
 	font-family: sans-serif;
 	color: #23635a;
-	line-height: 12pt;
+	line-height: 12px;
 }
 h5 {
-	font-size: 40pt;
+	font-size: 40px;
 	font-family: sans-serif;
 	text-align: center;
 	color: #23635a;
-	line-height: 50pt;
+	line-height: 50px;
 }
 p {
-	font-size: 12pt;
+	font-size: 12px;
 	font-family: sans-serif;
 	color: #707070;
-	line-height: 20pt;
+	line-height: 20px;
 }
 ul {
-	font-size: 10pt;
+	font-size: 10px;
 	font-family: sans-serif;
 	color: #707070;
-	line-height: 15pt;
+	line-height: 15px;
 }
 img.profile {
 	width: 250px;
